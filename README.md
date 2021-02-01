@@ -1,25 +1,8 @@
 ### Hi there 👋
 
-<!--
-**leohubert/leohubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emodyz&repo=MultigamingPanel)](https://github.com/emodyz/MultigamingPanel)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emodyz&repo=MultigamingLauncher)](https://github.com/emodyz/MultigamingLauncher)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leohubert&langs_count=7&hide=makefile&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohubert&langs_count=7&hide=makefile&hide_border=true" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=leohubert&show_icons=true&theme=light">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leohubert&show_icons=true&theme=light" />
-</a>
+</center>
