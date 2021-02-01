@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leohubert&langs_count=7&hide=makefile&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohubert&langs_count=7&layout=compact&hide=makefile&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohubert&langs_count=7&hide=makefile&hide_border=true" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=leohubert&show_icons=true&theme=dracula">
+<a href="https://github-readme-stats.vercel.app/api?username=leohubert&show_icons=true&theme=light">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leohubert&show_icons=true&theme=light" />
 </a>
