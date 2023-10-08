@@ -1,16 +1,20 @@
-# Hi there 👋
+# Hello, I'm Leo Hubert 👋
 
-### Welcome on board.
+![Github Followers](https://img.shields.io/github/followers/leohubert?label=Follow&style=social)
 
-I’m currently focused on a new fresh **Multigaming Launcher**.
+I'm a passionate software engineer. Welcome to my GitHub where I build and experiment with projects that excite me.
 
-If you are interested for help me, [join me on discord](https://discord.gg/75pQdYx) ! 
+## 🌐 Connect with me: 
 
-<p align="center">
-  <a href="https://github.com/emodyz/MultigamingPanel">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=emodyz&repo=MultigamingPanel">
-  </a>
-  <a href="https://github.com/emodyz/MultigamingLauncher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emodyz&repo=MultigamingLauncher">
-  </a>
-</p>
+-  LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Leo%20Hubert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leohubert)
+-  Twitter: [![Twitter](https://img.shields.io/badge/-@leohubert-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_leohubert)
+
+## 🛠️ Languages and Tools: 
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React/Vue](https://img.shields.io/badge/-React%2FVue-green?style=for-the-badge&logo=React&logoColor=white)
+![PHP Laravel](https://img.shields.io/badge/-PHP(Laravel%20Lover)-purple?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-lightgrey?style=for-the-badge&logo=c&logoColor=white)
+
+Feel free to explore my repositories and reach out if you have any questions!
